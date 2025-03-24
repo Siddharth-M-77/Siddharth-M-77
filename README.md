@@ -16,8 +16,8 @@
 
 <div align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=anubhavmaithil&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-    <img src="https://streak-stats.demolab.com?user=anubhavmaithil&exclude_days=Sun%2CSat&theme=dark&date_format=j%20M%5B%20Y%5D" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhavmaithil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://streak-stats.demolab.com?user=Siddharth-M-77&exclude_days=Sun%2CSat&theme=dark&date_format=j%20M%5B%20Y%5D" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddharth-M-77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br clear="both">
@@ -38,4 +38,4 @@
 
 <!-- [![An image of @anubhavmaithil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anubhavmaithil)](https://holopin.io/@anubhavmaithil) -->
 
-<img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Siddharth-M-77/Siddharth-M-77@output/github-contribution-grid-snake-dark.svg" /> 
+<!-- <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Siddharth-M-77/Siddharth-M-77@output/github-contribution-grid-snake-dark.svg" />  -->
