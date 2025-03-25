@@ -131,8 +131,9 @@ _Passionate coder, innovative thinker, and tech enthusiast on a mission to creat
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="./dist/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Siddharth-M-77/Siddharth-M-77/main/dist/github-snake.svg" />
 </p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
