@@ -128,11 +128,10 @@ _Passionate coder, innovative thinker, and tech enthusiast on a mission to creat
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Siddharth-M-77/Siddharth-M-77/output/github-contribution-grid-snake.svg" />
+  <img src="./dist/snake.svg" />
 </p>
 
 <div align="center">
