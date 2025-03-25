@@ -37,20 +37,43 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Siddharth-M-77&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat&date_format=j%20M%5B%20Y%5D" height="220" alt="GitHub Streak" />
 </div>
+## 💫 About Me
 
 ## 💫 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/USV0ym3AGM1gm9gqzA/giphy.gif" alt="Coding GIF" height="300" />
-</p>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f0f4f8"/>
+  
+  <!-- Desk -->
+  <rect x="100" y="300" width="400" height="50" fill="#2c3e50"/>
+  
+  <!-- Computer -->
+  <rect x="250" y="200" width="300" height="180" fill="#34495e"/>
+  <rect x="270" y="220" width="260" height="140" fill="#ecf0f1"/>
+  
+  <!-- Developer Character -->
+  <path d="M200,250 Q150,300 200,350" fill="none" stroke="#8e44ad" stroke-width="10"/>
+  <circle cx="200" cy="200" r="80" fill="#3498db"/>
+  <path d="M160,180 Q200,160 240,180" fill="none" stroke="#2c3e50" stroke-width="5"/>
+  <circle cx="180" cy="210" r="10" fill="white"/>
+  <circle cx="220" cy="210" r="10" fill="white"/>
+  
+  <!-- Code Elements -->
+  <text x="300" y="250" font-family="Courier New" font-size="20" fill="#2ecc71">&lt;/&gt;</text>
+  <text x="350" y="280" font-family="Courier New" font-size="20" fill="#e74c3c">function()</text>
+  <text x="400" y="310" font-family="Courier New" font-size="20" fill="#f39c12">{code}</text>
+  
+  <!-- Coffee Cup -->
+  <path d="M50,320 Q30,300 50,280 L70,280 Q90,300 70,320 Z" fill="#8B4513"/>
+  <path d="M55,310 Q45,305 55,300" fill="none" stroke="#fff" stroke-width="3"/>
+</svg>
 - 🔭 Currently working on cutting-edge web and machine learning projects
 - 🌱 Deep diving into Machine Learning & Cloud Technologies
 - 👯 Eager to collaborate on innovative Open Source Projects
 - 💬 Expert in Web Development, JavaScript, React
 - 📫 Reach me at: **bhaisiddharth63@gmail.com**
-- ⚡ Fun fact: Turning coffee and music into code, one line at a time!
-
+- ⚡ Fun fact: Turning coffee and music into code, one line at a time! 💻☕
 ## 🛠️ My Skills
 
 ### 👉 Programming Languages
