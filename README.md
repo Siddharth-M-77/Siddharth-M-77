@@ -148,8 +148,8 @@
   </a>
 </div>
 
-
 ## 📊 This Week I Spent My Time On:
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Siddharth_M_77&hide_border=true&theme=tokyonight&langs_count=5" alt="Wakatime Stats"/>
 </div>
@@ -178,9 +178,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Siddharth-M-77/Siddharth-M-77/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Siddharth-M-77/Siddharth-M-77/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
