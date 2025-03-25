@@ -155,19 +155,14 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Siddharth-M-77/Siddharth-M-77/blob/main/dist/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository_owner }}/output/github-contribution-grid-snake.svg" />
 </p>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddharth-M-77/Siddharth-M-77/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddharth-M-77/Siddharth-M-77/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/Siddharth-M-77/Siddharth-M-77/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
