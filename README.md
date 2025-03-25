@@ -39,13 +39,13 @@ _Passionate coder, innovative thinker, and tech enthusiast on a mission to creat
 
 ## 💫 About Me
 
-
 - 🔭 Currently working on cutting-edge web and machine learning projects
 - 🌱 Deep diving into Machine Learning & Cloud Technologies
 - 👯 Eager to collaborate on innovative Open Source Projects
 - 💬 Expert in Web Development, JavaScript, React
 - 📫 Reach me at: **bhaisiddharth63@gmail.com**
 - ⚡ Fun fact: Turning coffee and music into code, one line at a time! 💻☕
+
 ## 🛠️ My Skills
 
 ### 👉 Programming Languages
@@ -127,6 +127,13 @@ _Passionate coder, innovative thinker, and tech enthusiast on a mission to creat
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
+
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Siddharth-M-77/Siddharth-M-77/output/github-contribution-grid-snake.svg" />
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
