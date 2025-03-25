@@ -1,5 +1,3 @@
-# 💫 Siddharth Maddheshiya
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&text=I'm%20Siddharth&fontColor=ffffff&fontAlignY=35&desc=Maddheshiya&descSize=60&descAlign=65&descAlignY=55&animation=fadeIn" width="100%" />
 </div>
@@ -9,9 +7,9 @@
   Hello, Fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!
 </h1>
 
-## 🚀 MERN Stack Developer  
-*Passionate coder, innovative thinker, and tech enthusiast on a mission to create impactful digital solutions*  
+## 🚀 MERN Stack Developer
 
+_Passionate coder, innovative thinker, and tech enthusiast on a mission to create impactful digital solutions_
 
 <p align="center">
   <a href="https://github.com/Siddharth-M-77?tab=followers">
@@ -41,33 +39,7 @@
 
 ## 💫 About Me
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
-  <!-- Background -->
-  <rect width="600" height="400" fill="#f0f4f8"/>
-  
-  <!-- Desk -->
-  <rect x="100" y="300" width="400" height="50" fill="#2c3e50"/>
-  
-  <!-- Computer -->
-  <rect x="250" y="200" width="300" height="180" fill="#34495e"/>
-  <rect x="270" y="220" width="260" height="140" fill="#ecf0f1"/>
-  
-  <!-- Developer Character -->
-  <path d="M200,250 Q150,300 200,350" fill="none" stroke="#8e44ad" stroke-width="10"/>
-  <circle cx="200" cy="200" r="80" fill="#3498db"/>
-  <path d="M160,180 Q200,160 240,180" fill="none" stroke="#2c3e50" stroke-width="5"/>
-  <circle cx="180" cy="210" r="10" fill="white"/>
-  <circle cx="220" cy="210" r="10" fill="white"/>
-  
-  <!-- Code Elements -->
-  <text x="300" y="250" font-family="Courier New" font-size="20" fill="#2ecc71">&lt;/&gt;</text>
-  <text x="350" y="280" font-family="Courier New" font-size="20" fill="#e74c3c">function()</text>
-  <text x="400" y="310" font-family="Courier New" font-size="20" fill="#f39c12">{code}</text>
-  
-  <!-- Coffee Cup -->
-  <path d="M50,320 Q30,300 50,280 L70,280 Q90,300 70,320 Z" fill="#8B4513"/>
-  <path d="M55,310 Q45,305 55,300" fill="none" stroke="#fff" stroke-width="3"/>
-</svg>
+
 - 🔭 Currently working on cutting-edge web and machine learning projects
 - 🌱 Deep diving into Machine Learning & Cloud Technologies
 - 👯 Eager to collaborate on innovative Open Source Projects
@@ -155,14 +127,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository_owner }}/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
