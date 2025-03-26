@@ -35,7 +35,6 @@ _Passionate coder, innovative thinker, and tech enthusiast on a mission to creat
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Siddharth-M-77&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat&date_format=j%20M%5B%20Y%5D" height="220" alt="GitHub Streak" />
 </div>
-## 💫 About Me
 
 ## 💫 About Me
 
