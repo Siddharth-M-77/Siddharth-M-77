@@ -103,11 +103,6 @@ _Passionate coder, innovative thinker, and tech enthusiast on a mission to creat
 
 </p>
 
-## 📊 This Week I Spent My Time On:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Siddharth-M-77&hide_border=true&theme=tokyonight&langs_count=5" alt="Wakatime Stats"/>
-</div>
 
 ## 📫 Connect With Me
 
