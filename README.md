@@ -22,9 +22,13 @@ _Passionate coder, innovative thinker, and tech enthusiast on a mission to creat
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer:Always+Learning+New+Things" alt="Typing SVG" />
-  </a>
+ <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+Learning+New+Things" 
+    alt="Typing SVG animation showing Full Stack Developer and Always Learning New Things" 
+  />
+</a>
+
 </p>
 
 <div align="center">
