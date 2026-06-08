@@ -186,7 +186,7 @@ _I build and ship production-grade backend systems for FinTech & Web3 — wallet
 - 🚀 I own projects **end-to-end** — from API design to VPS deployment (Nginx, PM2, SSL) with ~99.9% uptime
 - 🌱 Currently leveling up in **TypeScript, NestJS, PostgreSQL, Docker & System Design**
 - 📫 Reach me at: **bhaisiddharth63@gmail.com**
-- 🌐 Portfolio: **[iamsidd.online](https://devsidd.cloud)**
+- 🌐 Portfolio: **[devsidd.cloud](https://devsidd.cloud)**
 - ⚡ Fun fact: turning coffee and music into production-ready code, one commit at a time! 💻☕
 
 ## 🧩 What I Build
@@ -271,7 +271,7 @@ _I build and ship production-grade backend systems for FinTech & Web3 — wallet
   <a href="https://www.linkedin.com/in/siddharthmaddheshiya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://iamsidd.online" target="_blank">
+  <a href="https://devsidd.cloud" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0e7490.svg?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:bhaisiddharth63@gmail.com" target="_blank">
