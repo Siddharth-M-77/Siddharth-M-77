@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=34D399&center=true&vCenter=true&width=560&lines=I+build+backends+that+move+real+money.;Wallet+engines+%C2%B7+Payout+systems+%C2%B7+Smart+contracts;From+API+design+to+production+on+100%2B+domains." alt="Typing intro" />
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
 
 ### `> whoami`
 
@@ -30,6 +30,8 @@ const siddharth = {
 };
 ```
 
+<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
+
 ### `> impact`
 
 | | What | Result |
@@ -40,6 +42,8 @@ const siddharth = {
 | 🔗 | **Smart contracts** — tokens & staking | Deployed and verified on BNB Smart Chain |
 | 🏦 | **Multi-level commission engine** | Admin → distributor → retailer → user payouts, cron-driven |
 | 🛡️ | **Auth & audit** — JWT, OTP, RBAC | Full transaction audit trail |
+
+<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
 
 ### `> stack`
 
@@ -57,17 +61,28 @@ const siddharth = {
   <img src="https://img.shields.io/badge/Mongoose-0b1220?style=flat-square&logo=mongoose&logoColor=white" />
 </p>
 
+<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
+
 ### `> activity`
+
+<!-- 3D contribution skyline, regenerated daily by .github/workflows/profile-3d.yml -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Siddharth-M-77&theme=transparent&hide_border=true&background=0b122000&ring=22d3ee&fire=34d399&currStreakLabel=22d3ee&sideLabels=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc&dates=64748b&stroke=1e293b" height="170" alt="GitHub streak" />
 </p>
 
+<!-- Snake follows the viewer's GitHub theme -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Siddharth-M-77/Siddharth-M-77/main/dist/github-snake.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+    <img src="./dist/github-snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
----
+<p align="center"><img src="./assets/divider.svg" width="100%" /></p>
 
 <p align="center">
   <sub>Most of my production work lives in private client repos. Happy to walk through architecture on a call — <a href="mailto:bhaisiddharth63@gmail.com">say hi</a>.</sub>
