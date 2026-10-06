@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Siddharth Maddheshiya — Backend Engineer, Web3 and FinTech Systems">
+  <!-- Self-hosted banner: no third-party service, so it never breaks -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070d"/>
+      <stop offset="55%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#071a17"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1e293b" stroke-width="1"/>
+    </pattern>
+    <style>
+      .name  { font: 700 54px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #f8fafc; letter-spacing: -1px; }
+      .role  { font: 500 22px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #94a3b8; }
+      .mono  { font: 500 16px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #34d399; }
+      .chip  { font: 600 13px 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; fill: #cbd5e1; }
+      /* Slow drifting glow behind the name */
+      .orb   { animation: drift 9s ease-in-out infinite alternate; }
+      @keyframes drift { from { transform: translate(0,0); } to { transform: translate(120px,-20px); } }
+      /* Blinking terminal cursor */
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      /* Fade-in for text on load */
+      .fade  { opacity: 0; animation: in 0.9s ease-out forwards; }
+      .d1 { animation-delay: .1s } .d2 { animation-delay: .35s } .d3 { animation-delay: .6s }
+      @keyframes in { to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)" opacity="0.45"/>
+  <circle class="orb" cx="260" cy="150" r="260" fill="url(#glow)"/>
+
+  <!-- Accent bar -->
+  <rect x="80" y="78" width="56" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <text x="80" y="148" class="name fade d1">Siddharth Maddheshiya</text>
+  <text x="80" y="190" class="role fade d2">Backend Engineer · Web3 &amp; FinTech Systems · MERN</text>
+
+  <g class="fade d3">
+    <text x="80" y="246" class="mono">$ node payouts.js --chain bsc --settle instant</text>
+    <rect class="cursor" x="528" y="232" width="9" height="18" fill="#34d399"/>
+  </g>
+
+  <!-- Right side: stack chips -->
+  <g class="fade d3" transform="translate(880 96)">
+    <g><rect width="240" height="34" rx="17" fill="#0f172a" stroke="#1e293b"/><text x="120" y="22" text-anchor="middle" class="chip">Node.js · Express · Redis</text></g>
+    <g transform="translate(0 48)"><rect width="240" height="34" rx="17" fill="#0f172a" stroke="#1e293b"/><text x="120" y="22" text-anchor="middle" class="chip">MongoDB · Socket.IO</text></g>
+    <g transform="translate(0 96)"><rect width="240" height="34" rx="17" fill="#0f172a" stroke="#1e293b"/><text x="120" y="22" text-anchor="middle" class="chip">Solidity · ethers.js · BSC</text></g>
+    <g transform="translate(0 144)"><rect width="240" height="34" rx="17" fill="#0f172a" stroke="#1e293b"/><text x="120" y="22" text-anchor="middle" class="chip">Nginx · PM2 · Docker · AWS</text></g>
+  </g>
+</svg>
