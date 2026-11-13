@@ -158,16 +158,7 @@ Full catalog, cart, checkout, orders and vendor payouts — built for a client a
 ## `> git log --stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddharth-M-77&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=a855f7&text_color=c9d1d9&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth-M-77&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=c9d1d9"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Siddharth-M-77&theme=tokyonight&hide_border=true&background=0D1117&ring=00C6FF&fire=a855f7&currStreakLabel=00C6FF" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddharth-M-77&bg_color=0D1117&color=00C6FF&line=a855f7&point=ffffff&area=true&area_color=302b63&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 </p>
 
 <!-- Snake eating the contribution grid (generated daily by GitHub Actions into ./dist) -->
